@@ -1,2 +1,3 @@
 # RTU-Datorsistemas
-RTU datorsistēmu
+
+RTU datorsistēmas darbi
